@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Matheus Pereira 🖐
 
--❄ Hoje tenho como objetivo e sonho me tornar um desenvolvedor front-end
+-❄ Hoje tenho como objetivo e sonho me tornar um desenvolvedor front-end mobile
 
 -📚 Estudando na DevMedia e cursando ADS
 
