@@ -1,8 +1,8 @@
 ## Olá! Eu sou o Matheus Pereira 🖐
 
--❄ Hoje tenho como objetivo e sonho me tornar um desenvolvedor front-end mobile
+-❄ Hoje tenho como objetivo e sonho me tornar um desenvolvedor front-end
 
--📚 Estudando na DevMedia e cursando ADS
+-📚 Estudando na DevClub e cursando ADS
 
 -😄 Pronouns: ele/dele
 
