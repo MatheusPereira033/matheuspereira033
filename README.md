@@ -11,7 +11,7 @@
  
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheuspereira033&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
--📚 Estudando na DevClub e cursando o ensino superior em ADS
+ 📚 Estudando na DevClub e cursando o ensino superior em ADS
 
 
 <div align="center">
