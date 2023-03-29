@@ -4,10 +4,10 @@
   <br/>
   Bem vindo a minha pagina :)
 </h1>
-<p align='center'>
-  <h2>Desenvolvedor Front end</h2>
-</p>
-
+<h2 align='center'>
+  Desenvolvedor Front end
+</h2>
+ 
 ###  👱🏻 Sobre mim:
 
 <p>
