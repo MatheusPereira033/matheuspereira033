@@ -1,10 +1,11 @@
+
 <h1 align='center'>
   Olá, sou o Matheus Pereira!
   <br/>
   Bem vindo a minha pagina :)
 </h1>
 <p align='center'>
-  Desenvolvedor Front end
+  <h2>Desenvolvedor Front end</h2>
 </p>
 
 ###  👱🏻 Sobre mim:
