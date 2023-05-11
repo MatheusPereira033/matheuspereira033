@@ -5,7 +5,7 @@
   Bem vindo a minha pagina :)
 </h1>
 <h2 align='center'>
-  Desenvolvedor Full-Stack
+  Desenvolvedor Front-End
 </h2>
  
 ###  👱🏻 Sobre mim:
