@@ -12,7 +12,7 @@
 
 <p>
   <em>
-    Tenho 21 anos, sou paulista e atualmente estou em busca da minha primeira exeriência profissional em Programação.
+    Tenho 21 anos, sou paulista e atualmente sou estagiário em uma empresa de Tecnologia.
   </em>
 </p>
 
