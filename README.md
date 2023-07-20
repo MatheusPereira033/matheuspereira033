@@ -41,7 +41,7 @@ Estas são algumas das tecnologias e ferramentas que utilizo e que estou me dese
 
 [![Minhas Habilidades](https://skillicons.dev/icons?i=nodejs,postgres)](https://skillicons.dev)
 
-- Tools and Plataforms
+- Outras Plataformas
 
 [![Minhas Habilidades](https://skillicons.dev/icons?i=git,postman,figma)](https://skillicons.dev)
 
