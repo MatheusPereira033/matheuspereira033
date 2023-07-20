@@ -12,12 +12,12 @@
 
 <p>
   <em>
-    Tenho 21 anos, sou paulista e atualmente sou estagiário em uma empresa de Tecnologia.
+    Tenho 21 anos, sou paulista e atualmente sou desenvolvedor em uma startup de Tecnologia.
   </em>
 </p>
 
-- 🌱 Estudando e aprimorando minhas habilidades em Javascript, React Native e outras tecnologias.
-- 🚀 Aluno na Devclub
+- 🌱 Estudando e aprimorando minhas habilidades em Javascript, React, Nodejs e outras tecnologias.
+- 🚀 Aluno na DevClub
 - 📫 Meu e-mail: matheuspereira033@hotmail.com
 
 ###  📊 Objetivos 2023:
@@ -37,18 +37,22 @@ Estas são algumas das tecnologias e ferramentas que utilizo e que estou me dese
 - Front-end
 
 ![ Minhas Habilidades ](https://skillicons.dev/icons?i=html,css,js,ts,react)
+<br/>
+- Back-End
 
+![ Minhas Habilidades ](https://skillicons.dev/icons?i=nodejs)
+<br/>
 - Ferramentas e plataformas
 
 ![ Minhas Habilidades ](https://skillicons.dev/icons?i=git,figma)
 
 ###  📈 Minhas Estatísticas
 
-  <b>Minhas Estatísticas</b>
+  <b>Minhas Estatísticas -</b>
 <br>
 ![Estatísticas github de Umutambyi Gad](https://github-readme-stats.vercel.app/api?username=matheuspereira033&show_icons=true&hide_border=true&count_private=true&theme=jolly)
 <br>
-  <b>Principais idiomas</b>
+  <b>Principais idiomas -</b>
 <br>
 ![Principais idiomas](https://github-readme-stats.vercel.app/api/top-langs/?username=matheuspereira033&langs_count=10&count_private=true&hide_border=true&theme=jolly&layout=compact)
 <br>
