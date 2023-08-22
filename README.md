@@ -4,18 +4,19 @@
   Bem vindo a minha página :)
 </h1>
 <p align='center'>
-  Desenvolvedor Full Stack
+  Full-Stack focado em Ruby on Rails | Engenheiro de software 🤖
 </p>
 
 ### 👱🏻 Sobre mim:
 
 <p>
   <em>
-   Tenho 21 anos, sou paulista e atualmente sou desenvolvedor em uma startup de Tecnologia.
+   Tenho 21 anos, sou de São Paulo e atualmente sou desenvolvedor em uma startup de Tecnologia.
   </em>
 </p>
 
-- 🌱 Estudando e aprimorando minhas habilidades em Javascript, React, Nodejs e outras tecnologias.
+- 🌱 Estudando e aprimorando minhas habilidades em Ruby on Rails, React.JS, Nodejs e outras tecnologias.
+- 🥇 Aluno na Operação Código de Ouro
 - 🚀 Aluno na DevClub
 - 📫 Meu e-mail: matheuspereira033@hotmail.com
 
@@ -31,19 +32,10 @@
 
 ### ⚡ Tecnologias:
 
-Estas são algumas das tecnologias e ferramentas que utilizo e que estou me desenvolvendo:
+Estas são algumas das tecnologias e ferramentas que utilizo e que estou me desenvolvendo📲:
 
-- Front-End
+[![Minhas Habilidades](https://skillicons.dev/icons?i=html,css,js,postman,nodejs,react,github,git,ruby,rails)](https://skillicons.dev)
 
-[![Minhas Habilidades](https://skillicons.dev/icons?i=html,css,js,ts,react)](https://skillicons.dev)
-
-- Back-End
-
-[![Minhas Habilidades](https://skillicons.dev/icons?i=nodejs,postgres)](https://skillicons.dev)
-
-- Outras Plataformas
-
-[![Minhas Habilidades](https://skillicons.dev/icons?i=git,postman,figma)](https://skillicons.dev)
 
 ### 📈 Minhas Estatísticas
 
