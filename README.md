@@ -34,7 +34,7 @@
 
 Estas são algumas das tecnologias e ferramentas que utilizo e que estou me desenvolvendo📲:
 
-[![Minhas Habilidades](https://skillicons.dev/icons?i=html,css,js,postman,nodejs,react,github,git,ruby,rails)](https://skillicons.dev)
+[![Minhas Habilidades](https://skillicons.dev/icons?i=html,css,js,postman,docker,react,github,git,ruby,rails)](https://skillicons.dev)
 
 
 ### 📈 Minhas Estatísticas
