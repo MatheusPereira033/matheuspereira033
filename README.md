@@ -15,7 +15,7 @@
   </em>
 </p>
 
-- 🌱 Estudando e aprimorando minhas habilidades em Ruby on Rails, React.JS, Nodejs e outras tecnologias.
+- 🌱 Estudando e aprimorando minhas habilidades em Ruby on Rails, React.JS, Docker, AWS e outras tecnologias.
 - 🥇 Aluno na Operação Código de Ouro
 - 🚀 Aluno na DevClub
 - 📫 Meu e-mail: matheuspereira033@hotmail.com
