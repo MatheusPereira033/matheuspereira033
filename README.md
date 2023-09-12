@@ -4,7 +4,7 @@
   Bem vindo a minha página :)
 </h1>
 <p align='center'>
-  Full-Stack focado em Ruby on Rails | Engenheiro de software 🤖
+  Full-Stack focado em Ruby on Rails 🤖
 </p>
 
 ### 👱🏻 Sobre mim:
