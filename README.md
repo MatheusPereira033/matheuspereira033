@@ -11,7 +11,7 @@
 
 <p>
   <em>
-   Tenho 21 anos, sou de São Paulo e atualmente sou desenvolvedor em uma startup de Tecnologia.
+   Tenho 21 anos, sou de São Paulo e atualmente sou desenvolvedor full stack.
   </em>
 </p>
 
