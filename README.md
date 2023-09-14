@@ -4,7 +4,7 @@
   Bem vindo a minha página :)
 </h1>
 <p align='center'>
-  Full-Stack focado em Ruby on Rails 🤖
+  Full-Stack focado em Javascript 🤖
 </p>
 
 ### 👱🏻 Sobre mim:
@@ -15,7 +15,7 @@
   </em>
 </p>
 
-- 🌱 Estudando e aprimorando minhas habilidades em Ruby on Rails, React.JS, Docker, AWS e outras tecnologias.
+- 🌱 Estudando e aprimorando minhas habilidades em Javascript, React.JS, Node.JS, Docker, AWS e outras tecnologias.
 - 🥇 Aluno na Operação Código de Ouro
 - 🚀 Aluno na DevClub
 - 📫 Meu e-mail: matheuspereira033@hotmail.com
@@ -34,7 +34,7 @@
 
 Estas são algumas das tecnologias e ferramentas que utilizo e que estou me desenvolvendo📲:
 
-[![Minhas Habilidades](https://skillicons.dev/icons?i=html,css,js,postman,docker,react,github,git,ruby,rails)](https://skillicons.dev)
+[![Minhas Habilidades](https://skillicons.dev/icons?i=html,css,js,nodejs,postman,docker,react,github,git,aws,azure)](https://skillicons.dev)
 
 
 ### 📈 Minhas Estatísticas
