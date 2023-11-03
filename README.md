@@ -121,7 +121,9 @@
   </p>
 </div>
 </details>
+
 </br>
+
 ### 📊 Objetivos 2023:
 
 - 📚 Continuar buscando conhecimento de pessoas e materiais de estudo
