@@ -4,21 +4,34 @@
   Bem vindo a minha página :)
 </h1>
 <p align='center'>
-  Full-Stack focado em Javascript 🤖
+  Desenvolvedor Full-Stack 🤖
 </p>
 
-### 👱🏻 Sobre mim:
+## <picture><img src = "https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDdxcTF2ZjlsMW90aTM1cTNjMDMxbnB2cnpvcWJlN3Rndnh2b2U1aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SWoSkN6DxTszqIKEqv/giphy.gif" width = 100px></picture> Sobre mim
 
-<p>
-  <em>
-   Tenho 21 anos, sou de São Paulo e atualmente sou desenvolvedor full stack.
-  </em>
+<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 280px></picture>
+
+<br><br>
+
+- 👱🏻: Tenho 22 anos e sou de São Paulo Capital.
+- 👨‍🎓: Cursando o 2° semestre em Análise e Desenvolvimento de Sistemas
+- 💻📚: Estudando e aprimorando minhas habilidades em: Javascript, Typescript, React.JS, Node.JS, PHP, Docker, Bootstrap, NextJS, AWS e outras tecnologias.
+- 🥇: Aluno na Operação Código de Ouro
+- 🚀: Aluno na DevClub
+- 📫: Meu e-mail: matheuspereira033@hotmail.com
+- :boom: Você pode visitar [MEU SITE](https).
+<br>
+
+
+## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture> Conecte-se comigo
+<p align="center">
+        <a href = "mailto:matheuspereira033@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" 
+         target="_blank alt="Outlook"/></a>
+	      <a href="https://github.com/MatheusPereira033"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
+	      <a href="https://wa.me/11941201897"><img src="https://img.shields.io/badge/whatsapp-%2325D366.svg?style=plastic&logo=whatsapp&logoColor=white" alt="Whatsapp"/></a>
+	      <a href="https://www.linkedin.com/in/matheuspereira-santos/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 </p>
 
-- 🌱 Estudando e aprimorando minhas habilidades em Javascript, React.JS, Node.JS, Docker, AWS e outras tecnologias.
-- 🥇 Aluno na Operação Código de Ouro
-- 🚀 Aluno na DevClub
-- 📫 Meu e-mail: matheuspereira033@hotmail.com
 
 ### 📊 Objetivos 2023:
 
