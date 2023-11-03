@@ -63,8 +63,6 @@
 
 ---
 
-<p>🧠 <span style="font-style:italic">"Não suba montanhas para que o mundo te veja, mas sim para que você veja o mundo."</span></p>
-
 ## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px>  </picture> Estatísticas do Github
 
 <details><summary><h3> 🔥 Estatísticas de sequência</h3></summary>
@@ -133,3 +131,5 @@
 - 💙 Conhecer pessoas e lugares incríveis este ano
 
 - 📋 Criar um projeto pessoal que aplique todo o conhecimento obtido ao longo da minha jornada, além de implementar novas tecnologias.
+
+<p>🧠 <span style="font-style:italic">"Não suba montanhas para que o mundo te veja, mas sim para que você veja o mundo."</span></p>
