@@ -4,7 +4,7 @@
   Bem vindo a minha página :)
 </h1>
 <h2 align='center'>
-  <span>Software Engineer🧑🏼‍💻</span>
+  <span>Software Engineer Golang🧑🏼‍💻</span>
 </h2>
 
 ## <picture><img src = "https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDdxcTF2ZjlsMW90aTM1cTNjMDMxbnB2cnpvcWJlN3Rndnh2b2U1aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SWoSkN6DxTszqIKEqv/giphy.gif" width = 100px></picture> Sobre mim
