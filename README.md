@@ -13,7 +13,7 @@
 <br>
 - 👱🏻: Tenho 22 anos e sou de São Paulo Capital.
 - 👨‍🎓: Cursando o 3° semestre em Análise e Desenvolvimento de Sistemas
-- 💻📚: Tenho experiência nas seguintes Tecnologias: JavaScript, PHP, Laravel, JQuery, Angular, Node.js, PostgreSQL, MongoDB, Mysql, Docker, .NET, Bootstrap, AWS e entre outras tecnologias.
+- 💻📚: Tenho experiência nas seguintes Tecnologias: JavaScript, PHP, Laravel, JQuery, Angular, Node.js, PostgreSQL, MongoDB, Mysql, Docker, Bootstrap, AWS e entre outras tecnologias.
 - 🥇: Aluno na Operação Código de Ouro
 - 🚀: Formado na instituição DevClub
 - 📫: Meu e-mail: matheuspereira033@hotmail.com
@@ -33,7 +33,7 @@
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = 50px>  </picture> Linguagens de Programação
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,jquery,php,laravel,dotnet" />
+    <img src="https://skillicons.dev/icons?i=js,jquery,php,laravel" />
   </a>
 </p>
 
