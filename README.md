@@ -11,9 +11,9 @@
 
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 280px></picture>
 <br>
-- 👱🏻: Tenho 22 anos e sou de São Paulo Capital.
+- 👱🏻: Tenho 22 anos e sou de São Paulo - SP.
 - 👨‍🎓: Cursando o 3° semestre em Análise e Desenvolvimento de Sistemas
-- 💻📚: Tenho experiência nas seguintes Tecnologias: JavaScript, TypeScript, PHP, JQuery, React.js, Node.js, PostgreSQL, MongoDB, Mysql, Docker, Bootstrap, AWS e entre outras tecnologias.
+- 💻📚: Tenho experiência nas seguintes Tecnologias: JavaScript, TypeScript, PHP, Laravel, JQuery, React.js, Next.js, Vue.js, Node.js, PostgreSQL, MongoDB, MySQL, Docker, Bootstrap, AWS e entre outras tecnologias.
 - 🥇: Aluno na Operação Código de Ouro
 - 🚀: Formado na instituição DevClub
 - 📫: Meu e-mail: matheuspereira033@hotmail.com
@@ -33,14 +33,14 @@
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = 50px>  </picture> Linguagens de Programação
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,jquery,typescript,php" />
+    <img src="https://skillicons.dev/icons?i=js,jquery,typescript,php,laravel" />
   </a>
 </p>
 
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width = 50px>  </picture> Desenvolvimento Front-End
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,figma,materialui" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,nextjs,vue,figma,materialui" />
   </a>
 </p>
 
