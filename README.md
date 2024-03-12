@@ -4,16 +4,16 @@
   Bem vindo a minha página :)
 </h1>
 <h2 align='center'>
-  <span>Desenvolvedor Full Stack🧑🏼‍💻</span>
+  <span>Full Stack Developer🧑🏼‍💻</span>
 </h2>
 
 ## <picture><img src = "https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDdxcTF2ZjlsMW90aTM1cTNjMDMxbnB2cnpvcWJlN3Rndnh2b2U1aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SWoSkN6DxTszqIKEqv/giphy.gif" width = 100px></picture> Sobre mim
 
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 280px></picture>
 <br>
-- 👱🏻: Tenho 22 anos e sou de São Paulo - SP.
+- 👱🏻: Tenho 22 anos e sou de São Paulo.
 - 👨‍🎓: Cursando o 3° semestre em Análise e Desenvolvimento de Sistemas
-- 💻📚: Tenho experiência nas seguintes Tecnologias: JavaScript, TypeScript, PHP, Laravel, JQuery, React.js, Next.js, Vue.js, Node.js, PostgreSQL, MongoDB, MySQL, Docker, Bootstrap, AWS e entre outras tecnologias.
+- 💻📚: Tenho experiência nas seguintes Tecnologias: JavaScript, TypeScript, PHP, Laravel, JQuery, React, Redux, Teste em Jest, Next, Vue, Node, PostgreSQL, MongoDB, MySQL, Docker, Bootstrap, AWS e entre outras tecnologias.
 - 🥇: Aluno na Operação Código de Ouro
 - 🚀: Formado na instituição DevClub
 - 📫: Meu e-mail: matheuspereira033@hotmail.com
@@ -40,21 +40,21 @@
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width = 50px>  </picture> Desenvolvimento Front-End
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,nextjs,vue,figma,materialui" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,nextjs,redux,vue,figma,materialui" />
   </a>
 </p>
 
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/IDEs.gif?raw=true" width = 50px>  </picture> Back-End
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,postman,aws,docker"/>
+    <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,postman,aws,docker,graphql"/>
   </a>
 </p>
 
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width = 50px>  </picture> Ferramentas e Outros
  <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,git,github,stackoverflow" />
+    <img src="https://skillicons.dev/icons?i=vscode,git,github,stackoverflow,bitbucket" />
   </a>
 </p>
 
