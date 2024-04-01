@@ -13,7 +13,7 @@
 <br>
 - 👱🏻: Tenho 22 anos e sou de São Paulo.
 - 👨‍🎓: Cursando o 3° semestre em Análise e Desenvolvimento de Sistemas
-- 💻📚: Tenho experiência nas seguintes Tecnologias: JavaScript, TypeScript, JQuery, PHP, React, Vue, Node, PostgreSQL, MongoDB, Docker, GraphQL, Redux, Jest, Bootstrap, Google Cloud Platform(GCP), AWS e entre outras tecnologias.
+- 💻📚: Tenho experiência nas seguintes Tecnologias: JavaScript, TypeScript, JQuery, PHP, React, Vue, Node, PostgreSQL, MongoDB, Docker, GraphQL, Redux, Jest, Bootstrap, AWS e entre outras tecnologias.
 - 🥇: Aluno na Operação Código de Ouro
 - 🚀: Formado na instituição DevClub
 - 📫: Meu e-mail: matheuspereira033@hotmail.com
@@ -47,7 +47,7 @@
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/IDEs.gif?raw=true" width = 50px>  </picture> Back-End
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mongodb,postgres,gcp,aws,docker,graphql"/>
+    <img src="https://skillicons.dev/icons?i=mongodb,postgres,aws,docker,graphql"/>
   </a>
 </p>
 
