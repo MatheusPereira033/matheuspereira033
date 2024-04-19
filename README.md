@@ -47,7 +47,7 @@
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/IDEs.gif?raw=true" width = 50px>  </picture> Back-End
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mongodb,postgres,aws,gcp,docker"/>
+    <img src="https://skillicons.dev/icons?i=mongodb,postgres,aws,gcp,docker,terraform"/>
   </a>
 </p>
 
