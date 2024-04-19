@@ -13,7 +13,7 @@
 <br>
 - 👱🏻: Tenho 22 anos e sou de São Paulo.
 - 👨‍🎓: Cursando o 3° semestre em Análise e Desenvolvimento de Sistemas
-- 💻📚: Tenho experiência nas seguintes Tecnologias: JavaScript, TypeScript, JQuery, PHP, React, Vue, Node, PostgreSQL, MongoDB, Docker, GraphQL, Redux, Jest, Bootstrap, AWS e entre outras tecnologias.
+- 💻📚: Tenho experiência nas seguintes Tecnologias: Golang, JavaScript, TypeScript, Python, JQuery, React, Bootstrap, PostgreSQL, MongoDB, Docker, Terraform, AWS, Google Cloud Platform e entre outras tecnologias.
 - 🥇: Aluno na Operação Código de Ouro
 - 🚀: Formado na instituição DevClub
 - 📫: Meu e-mail: matheuspereira033@hotmail.com
@@ -33,28 +33,28 @@
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = 50px>  </picture> Linguagens de Programação
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,typescript,php,jquery" />
+    <img src="https://skillicons.dev/icons?i=go,py,js,typescript" />
   </a>
 </p>
 
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width = 50px>  </picture> Desenvolvimento Front-End
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,react,vue,bootstrap,redux,figma,materialui" />
+    <img src="https://skillicons.dev/icons?i=html,css,jquery,react,bootstrap,materialui" />
   </a>
 </p>
 
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/IDEs.gif?raw=true" width = 50px>  </picture> Back-End
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mongodb,postgres,aws,docker,graphql"/>
+    <img src="https://skillicons.dev/icons?i=mongodb,postgres,aws,gcp,docker"/>
   </a>
 </p>
 
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width = 50px>  </picture> Ferramentas e Outros
  <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,git,github,stackoverflow,bitbucket" />
+    <img src="https://skillicons.dev/icons?i=vscode,git,github,bitbucket,stackoverflow" />
   </a>
 </p>
 
