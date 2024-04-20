@@ -13,7 +13,7 @@
 <br>
 - 👱🏻: Tenho 22 anos e sou de São Paulo.
 - 👨‍🎓: Cursando o 3° semestre em Análise e Desenvolvimento de Sistemas
-- 💻📚: Tenho experiência nas seguintes Tecnologias: Golang, JavaScript, TypeScript, Python, JQuery, React, Bootstrap, PostgreSQL, MongoDB, Docker, Terraform, AWS, Google Cloud Platform e entre outras tecnologias.
+- 💻📚: Tenho experiência nas seguintes Tecnologias: JavaScript, C#, .NET, ASP.NET, JQuery, Angular, Bootstrap, SQL Server, PostgreSQL, MongoDB, Docker, Git, AWS, Azure e entre outras tecnologias.
 - 🥇: Aluno na Operação Código de Ouro
 - 🚀: Formado na instituição DevClub
 - 📫: Meu e-mail: matheuspereira033@hotmail.com
@@ -33,28 +33,28 @@
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = 50px>  </picture> Linguagens de Programação
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=go,py,js,typescript" />
+    <img src="https://skillicons.dev/icons?i=js,cs,dotnet" />
   </a>
 </p>
 
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width = 50px>  </picture> Desenvolvimento Front-End
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,jquery,react,bootstrap,materialui" />
+    <img src="https://skillicons.dev/icons?i=html,css,jquery,angular,bootstrap" />
   </a>
 </p>
 
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/IDEs.gif?raw=true" width = 50px>  </picture> Back-End
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mongodb,postgres,aws,gcp,docker,terraform"/>
+    <img src="https://skillicons.dev/icons?i=mongodb,postgres,aws,azure,docker"/>
   </a>
 </p>
 
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width = 50px>  </picture> Ferramentas e Outros
  <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,git,github,bitbucket,stackoverflow" />
+    <img src="https://skillicons.dev/icons?i=visualstudio,vscode,git,github,bitbucket,stackoverflow" />
   </a>
 </p>
 
