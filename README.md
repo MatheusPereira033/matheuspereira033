@@ -12,7 +12,7 @@
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 280px></picture>
 <br>
 - 👱🏻: Tenho 22 anos e sou de São Paulo.
-- 👨‍🎓: Cursando o 3° semestre em Análise e Desenvolvimento de Sistemas
+- 👨‍🎓: Cursando o 3° semestre em Análise e Desenvolvimento de Sistemas.
 - 💻📚: Tenho experiência nas seguintes Tecnologias: JavaScript, C#, .NET, ASP.NET, JQuery, Angular, PO-UI, Bootstrap, NodeJS, SQL Server, PostgreSQL, MongoDB, Docker, Git, AWS, Azure e entre outras tecnologias.
 - ⚓: Aluno na Escola Congenial
 - 🥇: Aluno na Operação Código de Ouro
