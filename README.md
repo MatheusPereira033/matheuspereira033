@@ -13,7 +13,8 @@
 <br>
 - 👱🏻: Tenho 22 anos e sou de São Paulo.
 - 👨‍🎓: Cursando o 3° semestre em Análise e Desenvolvimento de Sistemas
-- 💻📚: Tenho experiência nas seguintes Tecnologias: JavaScript, C#, .NET, ASP.NET, JQuery, Angular, Bootstrap, SQL Server, PostgreSQL, MongoDB, Docker, Git, AWS, Azure e entre outras tecnologias.
+- 💻📚: Tenho experiência nas seguintes Tecnologias: JavaScript, C#, .NET, ASP.NET, JQuery, Angular, PO-UI, Bootstrap, NodeJS, SQL Server, PostgreSQL, MongoDB, Docker, Git, AWS, Azure e entre outras tecnologias.
+- ⚓: Aluno na Escola Congenial
 - 🥇: Aluno na Operação Código de Ouro
 - 🚀: Formado na instituição DevClub
 - 📫: Meu e-mail: matheuspereira033@hotmail.com
@@ -47,7 +48,7 @@
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/IDEs.gif?raw=true" width = 50px>  </picture> Back-End
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mongodb,postgres,aws,azure,docker"/>
+    <img src="https://skillicons.dev/icons?i=nodejs,mongodb,postgres,aws,azure,docker"/>
   </a>
 </p>
 
@@ -102,9 +103,6 @@
   <p align="center">
 	<a href="https://github.com/matheuspereira033/Desafio_Estagio_Matheus">
       		<img src="https://github-readme-stats.vercel.app/api/pin/?username=matheuspereira033&repo=Desafio_Estagio_Matheus&theme=tokyonight" alt="GitHub Stats" />
-    	</a>
-        <a href="https://github.com/matheuspereira033/login">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=matheuspereira033&repo=login&theme=tokyonight" alt="GitHub Stats" />
     	</a>
 	<a href="https://github.com/matheuspereira033/projeto-previsao-do-tempo">
       		<img src="https://github-readme-stats.vercel.app/api/pin/?username=matheuspereira033&repo=projeto-previsao-do-tempo&theme=tokyonight" alt="GitHub Stats" />
