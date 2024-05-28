@@ -4,27 +4,26 @@
   Welcome to my page :)
 </h1>
 <h2 align='center'>
-  <span>Full Stack Engineer🧑🏼‍💻</span>
+  <span>Front End Developer🧑🏼‍💻</span>
 </h2>
 
 ## <picture><img src = "https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDdxcTF2ZjlsMW90aTM1cTNjMDMxbnB2cnpvcWJlN3Rndnh2b2U1aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SWoSkN6DxTszqIKEqv/giphy.gif" width = 100px></picture> About me
 
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 280px></picture>
 <br>
-- 👱🏻: I'm 22 years old and I'm from São Paulo.
+- 👱🏻: I'm 22 years old and I'm from São Paulo, Brasil.
 - 👨‍🎓: Currently in the 3° semester of Analysis and Systems Development.
-- 💻📚: I have experience in the following Technologies: JavaScript, C#, .NET, ASP.NET, JQuery, Angular, PO-UI, Bootstrap, NodeJS, SQL Server, PostgreSQL, MongoDB, Docker, Git, AWS, Azure and among other technologies.
+- 💻📚: I have experience in the following Technologies: JavaScript, TypeScript, JQuery, React, React Native, Mobile, Next.js, HTML, CSS, Bootstrap, Tailwind CSS, Sass and Context API.
 - ⚓: Student at Congenial School
-- 🥇: Student at Operation Golden Code
 - 🚀: Graduated from DevClub institution
-- 📫: My email: matheuspereira033@hotmail.com
+- 📫: My email: matheuspereira10br@gmail.com
 <br>
 
 ## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture> Connect with me
 <p align="center">
         <a href="https://www.linkedin.com/in/matheuspereira-santos/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
         <a href="https://api.whatsapp.com/send/?phone=%2B5511941201897&text&app_absent=0" target="_blank"><img src="https://img.shields.io/badge/WhatsApp- 25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
-        <a href = "mailto:matheuspereira033@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"</a>
+        <a href = "mailto:matheuspereira10br@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"</a>
 </p>
 		
 <br>
@@ -34,14 +33,14 @@
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = 50px>  </picture> Programming Languages
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,cpp,cs,dotnet" />
+    <img src="https://skillicons.dev/icons?i=js,ts" />
   </a>
 </p>
 
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width = 50px>  </picture> Front-End Development
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,jquery,angular,bootstrap" />
+    <img src="https://skillicons.dev/icons?i=html,css,jquery,react,nextjs,bootstrap,figma,materialui,tailwind" />
   </a>
 </p>
 
@@ -55,7 +54,7 @@
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width = 50px>  </picture> Tools and Others
  <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=visualstudio,vscode,git,github,bitbucket,stackoverflow" />
+    <img src="https://skillicons.dev/icons?i=vscode,git,github,bitbucket,stackoverflow" />
   </a>
 </p>
 
