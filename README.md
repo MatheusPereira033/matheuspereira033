@@ -4,7 +4,7 @@
   Welcome to my page :)
 </h1>
 <h2 align='center'>
-  <span>Front End Developer🧑🏼‍💻</span>
+  <span>Full Stack Developer🧑🏼‍💻</span>
 </h2>
 
 ## <picture><img src = "https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDdxcTF2ZjlsMW90aTM1cTNjMDMxbnB2cnpvcWJlN3Rndnh2b2U1aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SWoSkN6DxTszqIKEqv/giphy.gif" width = 100px></picture> About me
@@ -13,8 +13,7 @@
 <br>
 - 👱🏻: I'm 22 years old and I'm from São Paulo, Brasil.
 - 👨‍🎓: Currently in the 3° semester of Analysis and Systems Development.
-- 💻📚: I have experience in the following Technologies: JavaScript, TypeScript, JQuery, React, React Native, Mobile, Next.js, HTML, CSS, Bootstrap, Tailwind CSS, Sass and Context API.
-- ⚓: Student at Congenial School
+- 💻📚: I have experience in the following Technologies: JavaScript, TypeScript, JQuery, React, Next.js, HTML, CSS, Bootstrap, Tailwind CSS, Docker, NodeJS, PHP, Golang, PostgreSQL, MongoDB, AWS and Azure.
 - 🚀: Graduated from DevClub institution
 - 📫: My email: matheuspereira10br@gmail.com
 <br>
@@ -33,7 +32,7 @@
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = 50px>  </picture> Programming Languages
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts" />
+    <img src="https://skillicons.dev/icons?i=js,php,go" />
   </a>
 </p>
 
