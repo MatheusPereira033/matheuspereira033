@@ -13,8 +13,7 @@
 <br>
 - 👱🏻: I'm 22 years old and I'm from São Paulo, Brasil.
 - 👨‍🎓: Currently in the 3° semester of Analysis and Systems Development.
-- 💻📚: I have experience in the following Technologies: JavaScript, TypeScript, JQuery, React, Next.js, HTML, CSS, Bootstrap, Tailwind CSS, Docker, NodeJS, PHP, Golang, PostgreSQL, MongoDB, AWS and Azure.
-- 🚀: Graduated from DevClub institution
+- 💻📚: I have experience in the following Technologies: JavaScript, TypeScript, JQuery, React, Next.js, Vue.js, HTML, CSS, Bootstrap, Tailwind CSS, Docker, Node.js, PHP, Laravel, PostgreSQL, MongoDB, AWS and Azure.
 - 📫: My email: matheuspereira10br@gmail.com
 <br>
 
@@ -32,14 +31,14 @@
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = 50px>  </picture> Programming Languages
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,php,go" />
+    <img src="https://skillicons.dev/icons?i=js,ts,php" />
   </a>
 </p>
 
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width = 50px>  </picture> Front-End Development
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,jquery,react,nextjs,bootstrap,figma,materialui,tailwind" />
+    <img src="https://skillicons.dev/icons?i=html,css,jquery,react,nextjs,vue,bootstrap,figma,materialui,tailwind" />
   </a>
 </p>
 
