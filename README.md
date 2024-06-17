@@ -31,14 +31,14 @@
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = 50px>  </picture> Programming Languages
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,php" />
+    <img src="https://skillicons.dev/icons?i=js,ts,jquery,php" />
   </a>
 </p>
 
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width = 50px>  </picture> Front-End Development
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,jquery,react,nextjs,vue,bootstrap,figma,materialui,tailwind" />
+    <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,vue,bootstrap,materialui,tailwind" />
   </a>
 </p>
 
