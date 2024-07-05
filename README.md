@@ -12,8 +12,8 @@
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 280px></picture>
 <br>
 - 👱🏻: I'm 22 years old and I'm from São Paulo, Brasil.
-- 👨‍🎓: Currently in the 3° semester of Analysis and Systems Development.
-- 💻📚: I have experience in the following Technologies: JavaScript, TypeScript, JQuery, React, Next.js, Vue.js, HTML, CSS, Bootstrap, Tailwind CSS, Docker, Node.js, PHP, Laravel, PostgreSQL, MongoDB, AWS and Azure.
+- 👨‍🎓: Currently in the 4° semester of Analysis and Systems Development.
+- 💻📚: I have experience in the following Technologies: JavaScript, TypeScript, JQuery, React, Vue.js, HTML, CSS, Bootstrap, Docker, PHP, Laravel, Python, PostgreSQL, MongoDB, AWS and Azure.
 - 📫: My email: matheuspereira10br@gmail.com
 <br>
 
@@ -31,21 +31,21 @@
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = 50px>  </picture> Programming Languages
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,jquery,php" />
+    <img src="https://skillicons.dev/icons?i=js,ts,jquery,php,laravel,py" />
   </a>
 </p>
 
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width = 50px>  </picture> Front-End Development
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,vue,bootstrap,materialui,tailwind" />
+    <img src="https://skillicons.dev/icons?i=html,css,react,vue,bootstrap,materialui" />
   </a>
 </p>
 
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/IDEs.gif?raw=true" width = 50px>  </picture> Back-End
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,mongodb,postgres,aws,azure,docker"/>
+    <img src="https://skillicons.dev/icons?i=mongodb,postgres,aws,azure,docker"/>
   </a>
 </p>
 
