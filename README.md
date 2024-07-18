@@ -13,7 +13,7 @@
 <br>
 - 👱🏻: I'm 22 years old and I'm from São Paulo, Brasil.
 - 👨‍🎓: Currently in the 4° semester of Analysis and Systems Development.
-- 💻📚: I have experience in the following Technologies: JavaScript, TypeScript, JQuery, React, Vue.js, HTML, CSS, Bootstrap, Docker, PHP, Laravel, Python, PostgreSQL, MongoDB, AWS and Azure.
+- 💻📚: I have experience in the following Technologies: JavaScript, TypeScript, JQuery, React, Vue.js, HTML, CSS, Bootstrap, Docker, PHP, Laravel, Node.js, PostgreSQL, MongoDB, AWS and Azure.
 - 📫: My email: matheuspereira10br@gmail.com
 <br>
 
@@ -31,7 +31,7 @@
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = 50px>  </picture> Programming Languages
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,jquery,php,laravel,py" />
+    <img src="https://skillicons.dev/icons?i=js,ts,jquery,php,laravel" />
   </a>
 </p>
 
@@ -45,7 +45,7 @@
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/IDEs.gif?raw=true" width = 50px>  </picture> Back-End
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mongodb,postgres,aws,azure,docker"/>
+    <img src="https://skillicons.dev/icons?i=mongodb,postgres,nodejs,docker,aws,azure"/>
   </a>
 </p>
 
