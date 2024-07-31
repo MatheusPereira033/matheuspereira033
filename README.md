@@ -13,7 +13,7 @@
 <br>
 - 👱🏻: I'm 22 years old and I'm from São Paulo, Brasil.
 - 👨‍🎓: Currently in the 4° semester of Analysis and Systems Development.
-- 💻📚: I have experience in the following Technologies: JavaScript, TypeScript, JQuery, React.js, Redux, Next.js, HTML, CSS, Bootstrap, Docker, node.js, Jest, SQL, PostgreSQL, MongoDB, oracle, Google Cloud and AWS.
+- 💻📚: I have experience in the following Technologies: JavaScript, TypeScript, JQuery, React.js, Redux, Next.js, Nest.js, HTML, CSS, Bootstrap, Docker, node.js, GraphQL, Jest, SQL, PostgreSQL, MongoDB, Oracle, Google Cloud and AWS.
 - 📫: My email: matheuspereira10br@gmail.com
 <br>
 
