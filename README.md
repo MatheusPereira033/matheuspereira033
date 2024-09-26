@@ -4,7 +4,7 @@
   Welcome to my page :)
 </h1>
 <h2 align='center'>
-  <span>Full Stack Developer🧑🏼‍💻</span>
+  <span>Software Engineer | Full Stack Developer🧑🏼‍💻</span>
 </h2>
 
 ## <picture><img src = "https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDdxcTF2ZjlsMW90aTM1cTNjMDMxbnB2cnpvcWJlN3Rndnh2b2U1aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SWoSkN6DxTszqIKEqv/giphy.gif" width = 100px></picture> About me
