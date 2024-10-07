@@ -13,7 +13,7 @@
 <br>
 - 👱🏻: I'm 23 years old and I'm from São Paulo, Brasil.
 - 👨‍🎓: Currently in the 4° semester of Analysis and Systems Development.
-- 💻📚: I have experience in the following Technologies: JavaScript, TypeScript, JQuery, React.js, Redux, Next.js, Nest.js, HTML, CSS, Bootstrap, Docker, Node.js, GraphQL, Jest, PostgreSQL, MongoDB and AWS.
+- 💻📚: I have experience in the following Technologies: JavaScript, TypeScript, JQuery, React.js, Redux, Next.js, Nest.js, HTML, CSS, Bootstrap, Docker, Node.js, Golang, GraphQL, Jest, PostgreSQL, MongoDB and AWS.
 - 📫: My email: matheuspereira10br@gmail.com
 <br>
 
@@ -31,7 +31,7 @@
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = 50px>  </picture> Programming Languages
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,jquery" />
+    <img src="https://skillicons.dev/icons?i=js,ts,jquery,go" />
   </a>
 </p>
 
@@ -45,7 +45,7 @@
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/IDEs.gif?raw=true" width = 50px>  </picture> Back-End
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mongodb,postgres,postman,nodejs,express,graphql,docker,aws"/>
+    <img src="https://skillicons.dev/icons?i=mongodb,postgres,postman,nodejs,go,express,graphql,docker,aws"/>
   </a>
 </p>
 
