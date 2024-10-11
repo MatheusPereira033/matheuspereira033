@@ -4,7 +4,7 @@
   Welcome to my page :)
 </h1>
 <h2 align='center'>
-  <span>Software Engineer | Full Stack Developer🧑🏼‍💻</span>
+  <span>Front-end Engineer | Front-end Developer🧑🏼‍💻</span>
 </h2>
 
 ## <picture><img src = "https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDdxcTF2ZjlsMW90aTM1cTNjMDMxbnB2cnpvcWJlN3Rndnh2b2U1aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SWoSkN6DxTszqIKEqv/giphy.gif" width = 100px></picture> About me
@@ -13,7 +13,7 @@
 <br>
 - 👱🏻: I'm 23 years old and I'm from São Paulo, Brasil.
 - 👨‍🎓: Currently in the 4° semester of Analysis and Systems Development.
-- 💻📚: I have experience in the following Technologies: HTML, CSS, JavaScript, TypeScript, React, Next.js, Nest.js, Node, GraphQL, Git, GitHub, Docker, PostgreSQL, MongoDB, AWS, and more.
+- 💻📚: I have experience in the following Technologies: HTML, CSS, JavaScript, TypeScript, JQuery, Bootstrap, React, Next, Nest.js, Node, Redux, Context API, API REST, GraphQL, Git, GitHub, Docker, PostgreSQL, MongoDB, AWS, and more.
 - 📫: My email: matheuspereira10br@gmail.com
 <br>
 
@@ -31,7 +31,7 @@
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = 50px>  </picture> Programming Languages
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,jquery,go" />
+    <img src="https://skillicons.dev/icons?i=js,ts,jquery" />
   </a>
 </p>
 
@@ -45,14 +45,14 @@
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/IDEs.gif?raw=true" width = 50px>  </picture> Back-End
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mongodb,postgres,postman,nodejs,go,express,graphql,docker,aws"/>
+    <img src="https://skillicons.dev/icons?i=mongodb,postgres,postman,nodejs,express,graphql,docker"/>
   </a>
 </p>
 
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width = 50px>  </picture> Tools and Others
  <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,git,github,firebase,bitbucket,stackoverflow" />
+    <img src="https://skillicons.dev/icons?i=vscode,git,github,bitbucket,stackoverflow" />
   </a>
 </p>
 
