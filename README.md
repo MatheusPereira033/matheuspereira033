@@ -13,7 +13,7 @@
 <br>
 - 👱🏻: I'm 23 years old and I'm from São Paulo, Brasil.
 - 👨‍🎓: Currently in the 4° semester of Analysis and Systems Development.
-- 💻📚: I have experience in the following Technologies: HTML, CSS, JavaScript, TypeScript, JQuery, Bootstrap, React, Next, Nest.js, Node, Redux, Context API, API REST, GraphQL, Git, GitHub, Docker, PostgreSQL, MongoDB, AWS, and more.
+- 💻📚: I have experience in the following Technologies: HTML, CSS, JavaScript, TypeScript, JQuery, Bootstrap, React.JS, Next.JS, Angular, Node.JS, Redux, Context API, API RESTful, GraphQL, Git, GitHub, Docker, PostgreSQL, MongoDB, AWS, and more.
 - 📫: My email: matheuspereira10br@gmail.com
 <br>
 
@@ -38,7 +38,7 @@
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width = 50px>  </picture> Front-End Development
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,react,nextjs,nestjs,redux,jest,figma,materialui" />
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,react,nextjs,angular,nestjs,redux,jest,figma,materialui" />
   </a>
 </p>
 
