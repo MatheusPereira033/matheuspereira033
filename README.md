@@ -1,23 +1,23 @@
 <h1 align='center'>
-  Hello, I'm Matheus!
+  Olá, sou o Matheus!
   <br/>
-  Welcome to my page :)
+  seja bem vindo :)
 </h1>
 <h2 align='center'>
-  <span>Front-end Engineer | Front-end Developer🧑🏼‍💻</span>
+  <span>Desenvolvedor Front-end🧑🏼‍💻</span>
 </h2>
 
-## <picture><img src = "https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDdxcTF2ZjlsMW90aTM1cTNjMDMxbnB2cnpvcWJlN3Rndnh2b2U1aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SWoSkN6DxTszqIKEqv/giphy.gif" width = 100px></picture> About me
+## <picture><img src = "https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDdxcTF2ZjlsMW90aTM1cTNjMDMxbnB2cnpvcWJlN3Rndnh2b2U1aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SWoSkN6DxTszqIKEqv/giphy.gif" width = 100px></picture> Sobre mim
 
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 280px></picture>
 <br>
-- 👱🏻: I'm 23 years old and I'm from São Paulo, Brasil.
-- 👨‍🎓: Currently in the 4° semester of Analysis and Systems Development.
-- 💻📚: I have experience in the following Technologies: HTML, CSS, JavaScript, TypeScript, JQuery, Bootstrap, React.JS, Next.JS, Angular, Node.JS, Redux, Context API, API RESTful, GraphQL, Git, GitHub, Docker, PostgreSQL, MongoDB, AWS, and more.
-- 📫: My email: matheuspereira10br@gmail.com
+- 👱🏻: Tenho 23 anos e sou de São Paulo, Brasil.
+- 👨‍🎓: Sou formado em Análise e Desenvolvimento de Sistemas.
+- 💻📚: Tenho experiência nas seguintes tecnologias: HTML, CSS, JavaScript, TypeScript, JQuery, Bootstrap, React, Next, Material UI, Tailwind CSS, Design Patterns, Micro Front-end, Solid, Jest, Node, Redux, Context API, API RESTful, GraphQL, Git, GitHub, GitFlow, Docker, Kubernetes, DataDog, PostgreSQL, MongoDB, AWS.
+- 📫: Meu email: matheuspereira10br@gmail.com
 <br>
 
-## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture> Connect with me
+## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture> Conecte-se comigo
 <p align="center">
         <a href="https://www.linkedin.com/in/matheuspereira-santos/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
         <a href="https://api.whatsapp.com/send/?phone=%2B5511941201897&text&app_absent=0" target="_blank"><img src="https://img.shields.io/badge/WhatsApp- 25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
@@ -26,30 +26,30 @@
 		
 <br>
 
-## 🛠️ My Skills
+## 🛠️ Minhas Habilidades
 
-### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = 50px>  </picture> Programming Languages
+### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = 50px>  </picture> Linguagens de Programação
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,ts,jquery" />
   </a>
 </p>
 
-### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width = 50px>  </picture> Front-End Development
+### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width = 50px>  </picture> Desenvolvimento Front-end
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,react,nextjs,angular,nestjs,redux,jest,figma,materialui" />
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,react,nextjs,redux,jest,figma,materialui,sass" />
   </a>
 </p>
 
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/IDEs.gif?raw=true" width = 50px>  </picture> Back-End
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mongodb,postgres,postman,nodejs,express,graphql,docker"/>
+    <img src="https://skillicons.dev/icons?i=aws,vercel,mongodb,postgres,postman,nodejs,express,graphql,jenkins,docker,kubernetes,terraform,prisma,"/>
   </a>
 </p>
 
-### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width = 50px>  </picture> Tools and Others
+### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width = 50px>  </picture> Ferramentas e outros
  <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=vscode,git,github,bitbucket,stackoverflow" />
@@ -60,7 +60,7 @@
 
 ---
 
-## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px>  </picture> Github Statistics
+## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px>  </picture> Estatísticas do Github
 
 <details><summary><h3> 🔥 Sequence Statistics</h3></summary>
 
@@ -110,14 +110,14 @@
 
 </br>
 
-### 📊 2024 Goals:
+### 📊 Metas para 2025:
 
-- 📚 Continue seeking knowledge from people and study materials
+- 📚 Continuar buscando conhecimento por meio de pessoas e materiais de estudo
 
-- ⭐ Expand and enhance my technical and professional leadership skills
+- ⭐ Expandir e aprimorar minhas habilidades técnicas e de liderança profissional
 
-- 💙 Meet amazing people and visit incredible places this year
+- 💙 Conhecer pessoas incríveis e visitar lugares incríveis este ano
 
-- 📋 Create a personal project that applies all the knowledge gained throughout my journey, as well as implementing new technologies.
+- 📋 Criar um projeto pessoal que aplique todo o conhecimento adquirido ao longo da minha jornada, além de implementar novas tecnologias
 
-<p>🧠 <span style="font-style:italic">"Don't climb mountains for the world to see you, but for you to see the world."</span></p>
+<p>🧠 <span style="font-style:italic">"Não escale montanhas para que o mundo te veja, mas para que você veja o mundo."</span></p>
