@@ -62,7 +62,7 @@
 
 ## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px>  </picture> Estatísticas do Github
 
-<details><summary><h3> 🔥 Sequence Statistics</h3></summary>
+<details><summary><h3> 🔥 Estatísticas de Sequência</h3></summary>
 
 ----	
 
@@ -70,7 +70,7 @@
 
 </details>
   
-<details><summary><h3>💻 GitHub Profile Statistics</h3></summary>
+<details><summary><h3>💻 Estatísticas do Perfil do GitHub</h3></summary>
 
 ----
 	
@@ -84,7 +84,7 @@
   </p>
 </details>
 
-<details><summary> <h3> :trophy: Git Profile Trophies </h3></summary>
+<details><summary> <h3> :trophy: Troféus do Perfil Git </h3></summary>
 
 ----
 	
@@ -92,7 +92,7 @@
 
 </details>
 	
-<details><summary><h3> :open_file_folder: My repositories </h3></summary>
+<details><summary><h3> :open_file_folder: Meus Repositórios </h3></summary>
 
 ----
 	
