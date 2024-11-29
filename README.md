@@ -13,7 +13,7 @@
 <br>
 - 👱🏻: Tenho 23 anos e sou de São Paulo, Brasil.
 - 👨‍🎓: Sou formado em Análise e Desenvolvimento de Sistemas.
-- 💻📚: Tenho experiência nas seguintes tecnologias: HTML, CSS, JavaScript, TypeScript, JQuery, Bootstrap, React, Next, Material UI, Tailwind CSS, Design Patterns, Micro Front-end, Solid, Jest, Node, Redux, Context API, API RESTful, GraphQL, Git, GitHub, GitFlow, Docker, Kubernetes, DataDog, PostgreSQL, MongoDB, AWS.
+- 💻📚: Tenho experiência nas seguintes tecnologias: HTML, CSS, JavaScript, TypeScript, JQuery, Bootstrap, React, Next, React Native, Material UI, Tailwind CSS, Design Patterns, Micro Front-end, Solid, Jest, Node, Redux, Context API, API RESTful, GraphQL, Git, GitHub, GitFlow, Docker, Kubernetes, DataDog, PostgreSQL, MongoDB, AWS.
 - 📫: Meu email: matheuspereira10br@gmail.com
 <br>
 
@@ -45,7 +45,7 @@
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/IDEs.gif?raw=true" width = 50px>  </picture> Back-End
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,vercel,mongodb,postgres,postman,nodejs,express,graphql,jenkins,docker,kubernetes,terraform,prisma,"/>
+    <img src="https://skillicons.dev/icons?i=aws,mongodb,postgres,postman,nodejs,express,graphql,docker,kubernetes,prisma,"/>
   </a>
 </p>
 
